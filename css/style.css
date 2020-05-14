@@ -1,8 +1,22 @@
-    .main-header {
-        background-color: azure;
-        text-align: center;
-    }
-    
-    .main-header p {
-        font-size: 30px;
-    }
+   * {
+       margin: 10px;
+   }
+   
+   .main-header {
+       background-color: azure;
+       text-align: center;
+       font-size: 30px;
+   }
+   /* .main-header p {
+       font-size: 30px;
+   } */
+   
+   p {
+       justify-content: center;
+       /* border: 5px solid red; */
+       text-align: center;
+   }
+   
+   .header intial {
+       align-items: center;
+   }
